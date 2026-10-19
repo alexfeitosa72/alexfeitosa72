@@ -18,7 +18,7 @@ Utilizo este espaço para organizar minha produção acadêmica, projetos de pes
 
 Minha pesquisa investiga como divergências presentes na anotação de sentimentos podem se manifestar e ser amplificadas por modelos de aprendizado supervisionado.
 
-**[MIVA](https://github.com/alexfeitosa72/MIVA)**
+**[MADA](https://github.com/alexfeitosa72/mada)**
 
 Repositório do projeto de pesquisa, contendo experimentos, implementações e resultados relacionados à metodologia MADA.
 
